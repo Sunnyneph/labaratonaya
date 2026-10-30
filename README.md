@@ -1,9 +1,2 @@
-# mathtool
-
-Учебный консольный проект на Python. Для запуска примера из первой части лабораторной работы выполните:
-
-```powershell
-python main.py
-```
-
-Требуется Python 3.12 или новее.
+# Auto detect text files and perform LF normalization
+* text=auto
